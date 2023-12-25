@@ -4,7 +4,7 @@
 
 This project aims to predict the prices of mobile phones using a Decision Tree model. The dataset used for this project contains various features related to mobile phones, such as specifications, features, and brand information. The project follows a structured data science workflow, including data preprocessing and feature selection, to build an accurate predictive model.
 
-## Objectives
+## Objective
 
 - Preprocess the dataset to handle missing values and outliers.
 - Identify relevant features using statistical tests (Chi-square and ANOVA).
